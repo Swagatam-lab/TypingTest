@@ -18,8 +18,6 @@ Clean and beginner-friendly code
 
 📸 Demo
 yaml
-Copy
-Edit
 Type the following sentence:
 > The quick brown fox jumps over the lazy dog.
 
