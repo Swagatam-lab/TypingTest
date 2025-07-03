@@ -49,8 +49,6 @@ No external libraries are required (uses built-in Python modules).
 Run the Script
 
 bash
-Copy
-Edit
 python typing_test.py
 🧠 How It Works
 The program randomly selects a sentence from a file.
