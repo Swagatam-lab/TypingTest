@@ -59,8 +59,6 @@ It then calculates the number of words typed per minute and the accuracy by comp
 
 ✅ Example Sentence File (sentences.txt)
 swift
-Copy
-Edit
 The quick brown fox jumps over the lazy dog.
 Typing is a fundamental skill in the digital age.
 Practice makes perfect.
